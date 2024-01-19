@@ -1,0 +1,23 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 28c13569-1eb8-4279-9ec4-13288f6f9832)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Control board connector\noptical sensor" (at 21.59 39.37 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 9c0d75b2-5694-4482-bb1e-11c6e0a2eaa3)
+  )
+  (text "Cap bank connector\nPower MOSFET\nCoil" (at 21.59 31.75 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid f5413064-0b8e-4974-97cb-05710ee3214b)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
