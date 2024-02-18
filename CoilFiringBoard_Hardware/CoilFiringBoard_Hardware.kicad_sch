@@ -1152,7 +1152,7 @@
     (property "Value" "Molex_SL_02" (at 104.14 87.63 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "MRDT_Connectors:MOLEX_SL_02_Horizontal" (at 105.41 87.63 0)
+    (property "Footprint" "MRDT_Connectors:MOLEX_SL_02_Vertical" (at 105.41 87.63 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 105.41 87.63 0)
