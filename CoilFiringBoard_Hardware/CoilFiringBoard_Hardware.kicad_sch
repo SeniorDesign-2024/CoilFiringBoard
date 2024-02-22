@@ -1048,7 +1048,7 @@
     (property "Value" "4.7n" (at 119.38 111.76 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Capacitor_THT:C_Disc_D10.5mm_W5.0mm_P10.00mm" (at 123.19 115.8748 0)
+    (property "Footprint" "Capacitor_THT:C_Rect_L13.0mm_W5.0mm_P10.00mm_FKS3_FKP3_MKS4" (at 123.19 115.8748 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 119.38 116.84 0)
