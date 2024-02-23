@@ -236,7 +236,7 @@
 
   (footprint "MRDT_Drill_Holes:BATT_PWR_VIA" (layer "F.Cu")
     (tstamp 00e9e959-03b9-4516-b0e9-871e1c10eb67)
-    (at 76.2 106.172)
+    (at 76.2 105.283)
     (property "Sheetfile" "CoilFiringBoard_Hardware.kicad_sch")
     (property "Sheetname" "")
     (path "/5edcfcb4-0c4f-4740-9acb-83c1af11313f")
@@ -249,7 +249,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dcca6391-3770-4b99-ae53-8c48d459e467)
     )
-    (pad "1" thru_hole rect (at 0 0) (size 25.4 38.1) (drill 7.9375 (offset 0 -10.50925)) (layers "*.Cu" "*.Mask")
+    (pad "1" thru_hole rect (at 0 0) (size 25.4 38.1) (drill 7.9375 (offset 0 -9.62025)) (layers "*.Cu" "*.Mask")
       (net 3 "PWR") (pintype "input") (zone_connect 2) (tstamp 6f08f059-287e-4f87-815e-dd583ae48ff9))
   )
 
@@ -561,7 +561,7 @@
 
   (footprint "MRDT_Drill_Holes:BATT_PWR_VIA" (layer "F.Cu")
     (tstamp 1b4993b4-f50f-474c-b3a1-745d9e01e8cc)
-    (at 152.4 47.244)
+    (at 152.4 48.133)
     (property "Sheetfile" "CoilFiringBoard_Hardware.kicad_sch")
     (property "Sheetname" "")
     (path "/0af02c15-8bb5-48a7-9301-f8baeca7c13e")
@@ -574,7 +574,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0afabe77-8bdf-4a43-a016-fe4a1b662ce0)
     )
-    (pad "1" thru_hole rect (at 0 0) (size 25.4 38.1) (drill 7.9375 (offset 0 10.50925)) (layers "*.Cu" "*.Mask")
+    (pad "1" thru_hole rect (at 0 0) (size 25.4 38.1) (drill 7.9375 (offset 0 9.62025)) (layers "*.Cu" "*.Mask")
       (net 4 "GND") (pintype "input") (zone_connect 2) (tstamp 8775928f-5665-4004-8b8c-cfbd3553824c))
   )
 
@@ -1883,7 +1883,7 @@
 
   (footprint "MRDT_Drill_Holes:BATT_PWR_VIA" (layer "F.Cu")
     (tstamp c0556a15-4f8c-43ca-8555-6e3b2301a8b5)
-    (at 76.2 47.244)
+    (at 76.2 48.133)
     (property "Sheetfile" "CoilFiringBoard_Hardware.kicad_sch")
     (property "Sheetname" "")
     (path "/e6a4b4a4-b73a-42cf-a867-5187078d113e")
@@ -1896,7 +1896,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 93db820f-7eb8-4268-8599-627056232a5d)
     )
-    (pad "1" thru_hole rect (at 0 0) (size 25.4 38.1) (drill 7.9375 (offset 0 10.50925)) (layers "*.Cu" "*.Mask")
+    (pad "1" thru_hole rect (at 0 0) (size 25.4 38.1) (drill 7.9375 (offset 0 9.62025)) (layers "*.Cu" "*.Mask")
       (net 3 "PWR") (pintype "input") (zone_connect 2) (tstamp 27fe46e6-a12f-4744-9ee5-193eac4034eb))
   )
 
@@ -2357,7 +2357,7 @@
 
   (footprint "MRDT_Drill_Holes:BATT_PWR_VIA" (layer "F.Cu")
     (tstamp f6a58d0a-8bb7-4b90-a791-4e1bd971e02e)
-    (at 152.4 106.172)
+    (at 152.4 105.283)
     (property "Sheetfile" "CoilFiringBoard_Hardware.kicad_sch")
     (property "Sheetname" "")
     (path "/f9bd3c78-2e52-4109-9ead-b928c7267e6d")
@@ -2370,7 +2370,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9fec9a2f-f3bf-4e82-8b55-e3e2206c7c30)
     )
-    (pad "1" thru_hole rect (at 0 0) (size 25.4 38.1) (drill 7.9375 (offset 0 -10.50925)) (layers "*.Cu" "*.Mask")
+    (pad "1" thru_hole rect (at 0 0) (size 25.4 38.1) (drill 7.9375 (offset 0 -9.62025)) (layers "*.Cu" "*.Mask")
       (net 4 "GND") (pintype "input") (zone_connect 2) (tstamp b27fa80f-49d6-4790-8b45-fdba08358eac))
   )
 
@@ -2528,6 +2528,15 @@
     )
     (format (prefix "") (suffix "") (units 3) (units_format 1) (precision 4))
     (style (thickness 0.1) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
+  )
+  (dimension (type aligned) (layer "User.1") (tstamp 396715c5-6e15-49de-82e5-e0adb372cb86)
+    (pts (xy 76.2 48.133) (xy 76.2 105.283))
+    (height 16.002)
+    (gr_text "2250.0000 mils" (at 59.048 76.708 90) (layer "User.1") (tstamp 396715c5-6e15-49de-82e5-e0adb372cb86)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (format (prefix "") (suffix "") (units 3) (units_format 1) (precision 4))
+    (style (thickness 0.15) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
   )
   (dimension (type aligned) (layer "User.1") (tstamp 7677df87-3312-4d01-b3e8-ade12d6556df)
     (pts (xy 165.1 114.808) (xy 165.1 38.608))
