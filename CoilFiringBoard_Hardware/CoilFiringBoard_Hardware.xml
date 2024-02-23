@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Brink\Documents\GitHub\CoilFiringBoard\CoilFiringBoard_Hardware\CoilFiringBoard_Hardware.kicad_sch</source>
+    <date>2/23/2024 12:51:57 PM</date>
+    <tool>Eeschema 7.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>CoilFiringBoard_Hardware.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>4.7n</value>
+      <footprint>Capacitor_THT:C_Rect_L13.0mm_W5.0mm_P10.00mm_FKS3_FKP3_MKS4</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CoilFiringBoard_Hardware.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>988a7baf-4171-4bbb-9cad-810a8b4be005</tstamps>
+    </comp>
+    <comp ref="Conn1">
+      <value>Molex_SL_02</value>
+      <footprint>MRDT_Connectors:MOLEX_SL_02_Horizontal</footprint>
+      <libsource lib="MRDT_Connectors" part="Molex_SL_02" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CoilFiringBoard_Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="MOLEX SL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efe591bf-e340-410a-b4c7-983215a1a21b</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>D</value>
+      <footprint>Diode_THT:D_DO-201AD_P12.70mm_Horizontal</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/diodes-incorporated/1N5408G-T/128597</datasheet>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CoilFiringBoard_Hardware.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9826ac1-f5de-44f5-948e-d5486b5a67a8</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>D</value>
+      <footprint>Diode_THT:D_DO-201AD_P12.70mm_Horizontal</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/diodes-incorporated/1N5408G-T/128597</datasheet>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CoilFiringBoard_Hardware.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02e9e09b-2ee1-4b00-9466-abda8ef49440</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>D</value>
+      <footprint>Diode_THT:D_DO-201AD_P12.70mm_Horizontal</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/diodes-incorporated/1N5408G-T/128597</datasheet>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CoilFiringBoard_Hardware.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b26829a-47cd-48c6-8a26-83682a160033</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>D</value>
+      <footprint>Diode_THT:D_DO-201AD_P12.70mm_Horizontal</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/diodes-incorporated/1N5408G-T/128597</datasheet>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CoilFiringBoard_Hardware.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d889d75d-7210-4366-a0f3-b610465fb5cd</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>~</value>
+      <footprint>SeniorDesign:WV-T264-101E</footprint>
+      <libsource lib="SeniorDesign" part="WV-T264-101E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CoilFiringBoard_Hardware.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>687b22e8-eaf4-4bce-b148-9fe58e65c53d</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>~</value>
+      <footprint>SeniorDesign:WV-T264-101E</footprint>
+      <libsource lib="SeniorDesign" part="WV-T264-101E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CoilFiringBoard_Hardware.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a9f7f10-c434-4ac0-b8f0-c76f06a3c03a</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>Q_NMOS_GDS</value>
+      <footprint>Package_TO_SOT_THT:TO-264-3_Vertical</footprint>
+      <datasheet>https://www.onsemi.com/pdf/datasheet/fdl100n50f-d.pdf</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GDS" description="N-MOSFET transistor, gate/drain/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CoilFiringBoard_Hardware.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/drain/source"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c06efd22-38b2-4bd6-8293-b0307bb9e478</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>Q_NMOS_GDS</value>
+      <footprint>Package_TO_SOT_THT:TO-264-3_Vertical</footprint>
+      <datasheet>https://www.onsemi.com/pdf/datasheet/fdl100n50f-d.pdf</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GDS" description="N-MOSFET transistor, gate/drain/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CoilFiringBoard_Hardware.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/drain/source"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcae253f-20cb-45b7-9546-a3653c98ad8f</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CoilFiringBoard_Hardware.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e00b0f4-955e-44be-a979-91904f28679d</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CoilFiringBoard_Hardware.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf5a736c-91dd-467e-bcec-6a78109ed9b7</tstamps>
+    </comp>
+    <comp ref="V1">
+      <value>Via</value>
+      <footprint>MRDT_Drill_Holes:BATT_PWR_VIA</footprint>
+      <libsource lib="MRDT_Drill_Holes" part="Via" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CoilFiringBoard_Hardware.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6a4b4a4-b73a-42cf-a867-5187078d113e</tstamps>
+    </comp>
+    <comp ref="V2">
+      <value>Via</value>
+      <footprint>MRDT_Drill_Holes:BATT_PWR_VIA</footprint>
+      <libsource lib="MRDT_Drill_Holes" part="Via" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CoilFiringBoard_Hardware.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0af02c15-8bb5-48a7-9301-f8baeca7c13e</tstamps>
+    </comp>
+    <comp ref="V3">
+      <value>Via</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_DIN965_Pad</footprint>
+      <libsource lib="MRDT_Drill_Holes" part="Via" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CoilFiringBoard_Hardware.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7c9e6d4-217c-4d02-b28c-072f135bf88d</tstamps>
+    </comp>
+    <comp ref="V4">
+      <value>Via</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_DIN965_Pad</footprint>
+      <libsource lib="MRDT_Drill_Holes" part="Via" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CoilFiringBoard_Hardware.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5d0af4e-5420-4250-8ce5-80d1f7e47623</tstamps>
+    </comp>
+    <comp ref="V5">
+      <value>Via</value>
+      <footprint>MRDT_Drill_Holes:BATT_PWR_VIA</footprint>
+      <libsource lib="MRDT_Drill_Holes" part="Via" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CoilFiringBoard_Hardware.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5edcfcb4-0c4f-4740-9acb-83c1af11313f</tstamps>
+    </comp>
+    <comp ref="V6">
+      <value>Via</value>
+      <footprint>MRDT_Drill_Holes:BATT_PWR_VIA</footprint>
+      <libsource lib="MRDT_Drill_Holes" part="Via" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CoilFiringBoard_Hardware.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9bd3c78-2e52-4109-9ead-b928c7267e6d</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Datasheet">~</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NMOS_GDS">
+      <description>N-MOSFET transistor, gate/drain/source</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NMOS_GDS</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MRDT_Connectors" part="Molex_SL_02">
+      <fields>
+        <field name="Reference">Conn</field>
+        <field name="Value">Molex_SL_02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MRDT_Drill_Holes" part="Via">
+      <fields>
+        <field name="Reference">V</field>
+        <field name="Value">Via</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="SeniorDesign" part="WV-T264-101E">
+      <fields>
+        <field name="Reference">H</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="no_connect"/>
+        <pin num="2" name="" type="no_connect"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="MRDT_Connectors">
+      <uri>C:/Users/Brink/Documents/GitHub/MRDT_KiCAD_Libraries/Symbols/MRDT_Connectors.kicad_sym</uri>
+    </library>
+    <library logical="MRDT_Drill_Holes">
+      <uri>C:/Users/Brink/Documents/GitHub/MRDT_KiCAD_Libraries/Symbols/MRDT_Drill_Holes.kicad_sym</uri>
+    </library>
+    <library logical="SeniorDesign">
+      <uri>C:/Users/Brink/Documents/GitHub/KiCad_Libraries/Symbols/SeniorDesign.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Coil-">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="V4" pin="1" pintype="input"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="V2" pin="1" pintype="input"/>
+      <node ref="V6" pin="1" pintype="input"/>
+    </net>
+    <net code="3" name="GND1">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="Conn1" pin="2" pintype="input"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(Q1-G)">
+      <node ref="Conn1" pin="1" pintype="input"/>
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="PWR">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="V1" pin="1" pintype="input"/>
+      <node ref="V3" pin="1" pintype="input"/>
+      <node ref="V5" pin="1" pintype="input"/>
+    </net>
+    <net code="6" name="unconnected-(H1-Pad1)">
+      <node ref="H1" pin="1" pintype="no_connect"/>
+    </net>
+    <net code="7" name="unconnected-(H1-Pad2)">
+      <node ref="H1" pin="2" pintype="no_connect"/>
+    </net>
+    <net code="8" name="unconnected-(H2-Pad1)">
+      <node ref="H2" pin="1" pintype="no_connect"/>
+    </net>
+    <net code="9" name="unconnected-(H2-Pad2)">
+      <node ref="H2" pin="2" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>
