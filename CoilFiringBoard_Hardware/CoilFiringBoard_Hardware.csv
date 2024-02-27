@@ -1,9 +1,9 @@
-"Reference","Value","Footprint","Datasheet","Price","Sim.Device","Sim.Pins","Qty"
-"C1","4.7n","Capacitor_THT:C_Rect_L13.0mm_W5.0mm_P10.00mm_FKS3_FKP3_MKS4","~https://www.mouser.com/ProductDetail/KEMET/R60QF14704001K?qs=w%2Fv1CP2dgqrzz3BW9Lijdg%3D%3D","0.46","","","1"
-"Conn1","Molex_SL_02","MRDT_Connectors:MOLEX_SL_02_Horizontal","","","","","1"
-"D1-D4","D","Diode_THT:D_DO-201AD_P12.70mm_Horizontal","https://www.mouser.com/ProductDetail/Diodes-Incorporated/1N5408G-T?qs=rGAXPo9uwV2%252BBTeZDYXWZA%3D%3D","0.37","D","1=K 2=A","4"
-"H1, H2","","SeniorDesign:WV-T264-101E","https://www.mouser.com/ProductDetail/Ohmite/WV-T264-101E?qs=5Eq9T6ZtkovUBRE50m8gYQ%3D%3D","2.38","","","2"
-"Q1, Q2","Q_NMOS_GDS","Package_TO_SOT_THT:TO-264-3_Vertical","https://www.onsemi.com/pdf/datasheet/fdl100n50f-d.pdf","18.22","","","2"
-"R1, R2","4.7k","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","https://www.mouser.com/ProductDetail/Panasonic/ERJ-P03F4701V?qs=18kBAoNi3c9lrldXCbY57g%3D%3D","0.33","","","2"
-"V1, V2, V5, V6","Via","MRDT_Drill_Holes:BATT_PWR_VIA","","","","","4"
-"V3, V4","Via","MountingHole:MountingHole_2.2mm_M2_DIN965_Pad","","","","","2"
+Reference,Value,Footprint,Datasheet,Price,Sim.Device,Sim.Pins,Qty
+C1,4.7n,Capacitor_THT:C_Rect_L13.0mm_W5.0mm_P10.00mm_FKS3_FKP3_MKS4,https://www.mouser.com/ProductDetail/KEMET/R60QF14704001K?qs=w%2Fv1CP2dgqrzz3BW9Lijdg%3D%3D,0.46,,,1
+Conn1,Molex_SL_02,MRDT_Connectors:MOLEX_SL_02_Horizontal,,,,,1
+D1-D4,D,Diode_THT:D_DO-201AD_P12.70mm_Horizontal,https://www.mouser.com/ProductDetail/Diodes-Incorporated/1N5408G-T?qs=rGAXPo9uwV2%252BBTeZDYXWZA%3D%3D,0.37,D,1=K 2=A,4
+"H1, H2",,SeniorDesign:WV-T264-101E,https://www.mouser.com/ProductDetail/Ohmite/WV-T264-101E?qs=5Eq9T6ZtkovUBRE50m8gYQ%3D%3D,2.38,,,2
+"Q1, Q2",Q_NMOS_GDS,Package_TO_SOT_THT:TO-264-3_Vertical,https://www.onsemi.com/pdf/datasheet/fdl100n50f-d.pdf,18.22,,,2
+"R1, R2",4.7k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,https://www.mouser.com/ProductDetail/Panasonic/ERJ-P03F4701V?qs=18kBAoNi3c9lrldXCbY57g%3D%3D,0.33,,,2
+"V1, V2, V5, V6",Via,MRDT_Drill_Holes:BATT_PWR_VIA,,,,,4
+"V3, V4",Via,MountingHole:MountingHole_2.2mm_M2_DIN965_Pad,,,,,2
